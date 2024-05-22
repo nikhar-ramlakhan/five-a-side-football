@@ -48,7 +48,7 @@ Enjoy playing the Five a Side Football game!
 For any questions or further information, please contact:
 
 **Nikhar Ramlakhan**  
-Email: [nikhar3108l@gmail.com](mailto:nikhar3108@gmail.com)  
+Email: [nikhar3108@gmail.com](mailto:nikhar3108@gmail.com)  
 LinkedIn: [Nikhar Ramlakhan](https://www.linkedin.com/in/nikhar-ramlakhan)
 
 ---
