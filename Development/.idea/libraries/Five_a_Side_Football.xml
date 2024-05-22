@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Five_a_Side_Football">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Five_a_Side_Football.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
