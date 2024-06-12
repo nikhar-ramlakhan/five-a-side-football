@@ -27,7 +27,7 @@ This Java-based application simulates a five-a-side football tournament. Users c
 3. **Navigate to the Build Folder**:
    - Open the cloned repository and navigate to the `Build` folder:
      ```bash
-     cd Five_a_Side_Football/Build
+     cd Five-a-Side-Football/Build
      ```
 
 4. **Run the Game**:
