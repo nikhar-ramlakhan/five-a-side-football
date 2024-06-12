@@ -21,7 +21,7 @@ This Java-based application simulates a five-a-side football tournament. Users c
 2. **Clone the Repository**:
    - Clone this repository to your local machine using the following command:
      ```bash
-     git clone https://github.com/nikhar-ramlakhan/Five_a_Side_Football.git
+     git clone https://github.com/nikhar-ramlakhan/Five-a-Side-Football.git
      ```
 
 3. **Navigate to the Build Folder**:
